@@ -1,0 +1,6 @@
+.idea/
+HomeWorkWithGit.iml
+*.sass
+/bin
+/admin
+/config
